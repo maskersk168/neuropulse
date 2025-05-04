@@ -1,6 +1,5 @@
 flask
 twilio
-sqlite3
 plyer
 requests
 gunicorn
